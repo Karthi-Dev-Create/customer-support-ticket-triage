@@ -59,9 +59,6 @@ This project replicates a real-world customer support workflow. It processes inc
 ## 🔗 Google Colab Notebook  
 You can view and run the project directly in Google Colab here:  
 [Open in Google Colab](https://colab.research.google.com/drive/1mcHFIBfEpuYTGt1K6RUgHtcYiZ-aPJNo?usp=sharing)
-
-Or use the badge below:  
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mcHFIBfEpuYTGt1K6RUgHtcYiZ-aPJNo?usp=sharing)
 
 ---
